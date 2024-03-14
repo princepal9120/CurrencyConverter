@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { InputBox ,Select } from './component'
+import { InputBox } from './component'
 import useCurrencyInfo from './hooks/useCurrencyInfo'
 import './App.css'
 import BackgroundImage from './assets/OIP.jpeg'
